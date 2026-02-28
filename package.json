@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/Domi-Git-Hub/Irrigation-System/issues"
   },
-  "homepage": "https://github.com/Domi-Git-Hub/Irrigation-System#readme",
+  "homepage": "https://github.com/Domi-Git-Hub/Irrigation-System/blob/main/README.md",
   "engines": {
     "node": ">=10.x",
     "homebridge": ">=0.2.0"
